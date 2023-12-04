@@ -2,4 +2,4 @@
 
 This is a magic 8 ball app
 
-![Alt Text](assets/Screenshot_1701709507.png)
+![Alt Text](assets/magic_8ball.gif)
